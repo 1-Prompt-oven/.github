@@ -8,3 +8,11 @@
 
 We are 2st project team from Spharos Academy 5th <br></br> which is education program provided by [Shinsegae.I&C](https://shinsegae-inc.com/) and [Busan Metropolitan City](busan.go.kr) 
 ****
+
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1732862415781?alt=media&token=c640781c-6738-4662-a59c-4e7eaaab876b)](https://github.com/msdio/stackticon)
+
+<img src="https://microsoft.github.io/garnet/img/garnet-logo-diamond.png" width="100"></img> [Garnet (Replacement of Redis)](https://github.com/microsoft/garnet)
+
+<img src="https://zod.dev/logo.svg" width="100"></img> zod (Regex for JS|TS)
+
+<img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png" width="100"></img> shadcn-ui (a collection of re-usable components)
