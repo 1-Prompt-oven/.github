@@ -9,6 +9,7 @@
 We are 2st project team from Spharos Academy 5th <br></br> which is education program provided by [Shinsegae.I&C](https://shinsegae-inc.com/) and [Busan Metropolitan City](busan.go.kr) 
 ****
 
+### our tech stacks
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1732863069435?alt=media&token=6dd8236c-13f8-48e2-9511-445c592e7a2c)](https://github.com/msdio/stackticon)
 
 <img src="https://microsoft.github.io/garnet/img/garnet-logo-diamond.png" width="100"></img> [Garnet (Replacement of Redis)](https://github.com/microsoft/garnet)
