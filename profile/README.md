@@ -8,6 +8,10 @@
 
 We are 2st project team from Spharos Academy 5th <br></br> which is education program provided by [Shinsegae.I&C](https://shinsegae-inc.com/) and [Busan Metropolitan City](busan.go.kr) 
 ****
+### Introduce(팀 소개)
+
+
+****
 
 ### our tech stacks
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1732863069435?alt=media&token=6dd8236c-13f8-48e2-9511-445c592e7a2c)](https://github.com/msdio/stackticon)
@@ -17,3 +21,4 @@ We are 2st project team from Spharos Academy 5th <br></br> which is education pr
 <img src="https://zod.dev/logo.svg" width="100"></img> zod (Regex for JS|TS)
 
 <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png" width="100"></img> shadcn-ui (a collection of re-usable components)
+
