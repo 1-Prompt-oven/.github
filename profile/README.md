@@ -6,7 +6,7 @@
 
 ⏰활동기간(Period) 2024/10/02 ~ 2024/12/19
 
-We are 2st project team from Spharos Academy 5th <br></br> which is education program provided by [Shinsegae.I&C](https://shinsegae-inc.com/) and [Busan Metropolitan City](busan.go.kr) 
+We are 2nd project team from Spharos Academy 5th <br></br> which is education program provided by [Shinsegae.I&C](https://shinsegae-inc.com/) and [Busan Metropolitan City](busan.go.kr) 
 ****
 ### Introduce(팀 소개)
 
