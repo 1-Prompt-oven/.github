@@ -49,7 +49,7 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 ****
 
 ## 🛠️활용 기술
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1732863069435?alt=media&token=6dd8236c-13f8-48e2-9511-445c592e7a2c)](https://github.com/msdio/stackticon)
+![image](https://github.com/user-attachments/assets/ea972f9f-b1e5-4f9b-93ab-2302159087ee)
 
 <img src="https://microsoft.github.io/garnet/img/garnet-logo-diamond.png" width="100"></img> [Garnet (Replacement of Redis)](https://github.com/microsoft/garnet)
 
