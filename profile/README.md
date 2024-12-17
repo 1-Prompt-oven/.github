@@ -27,7 +27,6 @@ https://www.promptoven.shop/
 ### 그외 기능
 ![prompt oven - etc333 gf](https://github.com/user-attachments/assets/5c5d104f-fb5d-45f4-ad1c-716e8a896df3)
 
-
 ## 베스트 판매자 페이지
 ![best seller gf](https://github.com/user-attachments/assets/26fcd3c3-2290-4fd2-bbc6-48fff2991bb4)
 
@@ -50,13 +49,6 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 
 ## 🛠️활용 기술
 ![image](https://github.com/user-attachments/assets/ea972f9f-b1e5-4f9b-93ab-2302159087ee)
-
-<img src="https://microsoft.github.io/garnet/img/garnet-logo-diamond.png" width="100"></img> [Garnet (Replacement of Redis)](https://github.com/microsoft/garnet)
-
-<img src="https://zod.dev/logo.svg" width="100"></img> zod (Regex for JS|TS)
-
-<img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png" width="100"></img> shadcn-ui (a collection of re-usable components)
-
 
 ## 📐아키텍처
 ![image](https://github.com/user-attachments/assets/dfcb1e13-ecfd-453f-935e-2e308c7c4986)
