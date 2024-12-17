@@ -1,13 +1,38 @@
-### 🍞프롬프트 오븐(Prompt Oven)
+## 🍞프롬프트 오븐(Prompt Oven)
 ![image](https://github.com/user-attachments/assets/61aec1e6-c221-4098-8e33-ae43c322fde7)
 
+## 사이트 링크
+https://www.promptoven.shop/
 
-### 🎬시연 영상
+## 🎬시연 영상
+**클릭시 유튜브 이동**
+<br>
 [![Video Title](https://img.youtube.com/vi/AGIUcD3vmp8/0.jpg)](https://www.youtube.com/watch?v=AGIUcD3vmp8)
 
+### 상품 조회
+![buy product gf2](https://github.com/user-attachments/assets/23106ca3-025b-492c-a309-39f734206a39)
+
+### 상품 구매
+![buy product gf](https://github.com/user-attachments/assets/dcefbb80-4579-4bae-b3e2-d154a6225bd6)
+
+### 상품 판매
+![prompt oven - image sell gf](https://github.com/user-attachments/assets/5bac9f1e-8470-4f47-9a0b-6f0e4166d146)
+
+### 쿠키 충전 및 프롬프트 샘플 테스트
+![sample and cookie gf](https://github.com/user-attachments/assets/e056edc9-c151-4577-9c5b-7b55aa05e695)
+
+### 채팅 및 커미션
+![commission gf](https://github.com/user-attachments/assets/46e7d198-320c-48a7-80fd-f559bb0da11f)
+
+### 그외 기능
+![prompt oven - etc333 gf](https://github.com/user-attachments/assets/5c5d104f-fb5d-45f4-ad1c-716e8a896df3)
+
+
+## 베스트 판매자 페이지
+![best seller gf](https://github.com/user-attachments/assets/26fcd3c3-2290-4fd2-bbc6-48fff2991bb4)
 
 ****
-### 🙋‍♀️Introduce(팀 소개)
+## 🙋‍♀️Introduce(팀 소개)
 신세계 I&C 와 부산광역시가 주관하는 스파로스 아카데미 5기
 2차 기업 연계 프로젝트 팀입니다.
 [스파로스 아카데미(Spharos Academy)](https://swedu.spharosacademy.com/spharos_total.html)
@@ -23,7 +48,7 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 
 ****
 
-### 🛠️활용 기술
+## 🛠️활용 기술
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1732863069435?alt=media&token=6dd8236c-13f8-48e2-9511-445c592e7a2c)](https://github.com/msdio/stackticon)
 
 <img src="https://microsoft.github.io/garnet/img/garnet-logo-diamond.png" width="100"></img> [Garnet (Replacement of Redis)](https://github.com/microsoft/garnet)
@@ -33,20 +58,20 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png" width="100"></img> shadcn-ui (a collection of re-usable components)
 
 
-### 📐아키텍처
+## 📐아키텍처
 ![image](https://github.com/user-attachments/assets/dfcb1e13-ecfd-453f-935e-2e308c7c4986)
 
-### 기능 요약도
+## 기능 요약도
 ![image](https://github.com/user-attachments/assets/cacad65a-0eff-4af2-82c9-72e6cdd21331)
 
 
-### 이벤트 스토밍
+## 이벤트 스토밍
 ![image](https://github.com/user-attachments/assets/535cfb15-0ac9-425f-8f4e-a95a7bccc929)
 
 ### 화면 플로우
 ![image](https://github.com/user-attachments/assets/794bcbde-91a5-4f58-8c5a-49f58bd79980)
 
-### 🔍프로젝트 소개
+## 🔍프로젝트 소개
 ![image](https://github.com/user-attachments/assets/0f946b91-195a-4f97-ba9e-7dd927d2e00f)
 ![image](https://github.com/user-attachments/assets/ad6aae53-2a76-45a9-88ac-cdaf88be8a57)
 ![image](https://github.com/user-attachments/assets/c9345828-06e8-45e1-b70c-187fb37df462)
@@ -63,7 +88,7 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 ![image](https://github.com/user-attachments/assets/5b026639-7bbe-4b9f-b597-40879de539e7)
 ![image](https://github.com/user-attachments/assets/2d43ce92-f6a9-478c-955f-bab8fd94044d)
 
-### ⚠️트러블 슈팅
+## ⚠️트러블 슈팅
 ![image](https://github.com/user-attachments/assets/8cac2d69-e8fb-4215-8ec8-1411cbd8558f)
 ![image](https://github.com/user-attachments/assets/ea81fcc4-b980-4313-a2d9-28b5122bf615)
 ![image](https://github.com/user-attachments/assets/2609c3b9-8ae3-494f-a6a7-69af73a0823f)
@@ -83,7 +108,7 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 ![image](https://github.com/user-attachments/assets/a330907b-0f31-455d-98b8-2b90ace72cdc)
 ![image](https://github.com/user-attachments/assets/31d7d1c9-0416-45c5-b5a2-66148b2f1576)
 
-### 🤝협업 과정
+## 🤝협업 과정
 ![image](https://github.com/user-attachments/assets/a893c989-a24e-409f-b4d1-1a5746a98cdf)
 ![image](https://github.com/user-attachments/assets/c2ebed46-f2bd-4739-b01f-76968261c455)
 ![image](https://github.com/user-attachments/assets/9e53d7fb-36b8-4d95-906d-9533dd7626ec)
