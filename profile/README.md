@@ -1,14 +1,14 @@
-### 🐤프롬프트 오븐(Prompt Oven)
+### 🍞프롬프트 오븐(Prompt Oven)
 ![image](https://github.com/user-attachments/assets/61aec1e6-c221-4098-8e33-ae43c322fde7)
 
 
-### 시연 영상
+### 🎬시연 영상
 [![Video Title](https://img.youtube.com/vi/AGIUcD3vmp8/0.jpg)](https://www.youtube.com/watch?v=AGIUcD3vmp8)
 
 
 ****
-### Introduce(팀 소개)
- 🙋‍♀️ 신세계 I&C 와 부산광역시가 주관하는 스파로스 아카데미 5기
+### 🙋‍♀️Introduce(팀 소개)
+신세계 I&C 와 부산광역시가 주관하는 스파로스 아카데미 5기
 2차 기업 연계 프로젝트 팀입니다.
 [스파로스 아카데미(Spharos Academy)](https://swedu.spharosacademy.com/spharos_total.html)
 
@@ -23,7 +23,7 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 
 ****
 
-### our tech stacks
+### 🛠️활용 기술
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1732863069435?alt=media&token=6dd8236c-13f8-48e2-9511-445c592e7a2c)](https://github.com/msdio/stackticon)
 
 <img src="https://microsoft.github.io/garnet/img/garnet-logo-diamond.png" width="100"></img> [Garnet (Replacement of Redis)](https://github.com/microsoft/garnet)
@@ -33,7 +33,7 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png" width="100"></img> shadcn-ui (a collection of re-usable components)
 
 
-### Architecture
+### 📐아키텍처
 ![image](https://github.com/user-attachments/assets/dfcb1e13-ecfd-453f-935e-2e308c7c4986)
 
 ### 기능 요약도
@@ -46,7 +46,7 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 ### 화면 플로우
 ![image](https://github.com/user-attachments/assets/794bcbde-91a5-4f58-8c5a-49f58bd79980)
 
-### 활용 기술
+### 🔍프로젝트 소개
 ![image](https://github.com/user-attachments/assets/0f946b91-195a-4f97-ba9e-7dd927d2e00f)
 ![image](https://github.com/user-attachments/assets/ad6aae53-2a76-45a9-88ac-cdaf88be8a57)
 ![image](https://github.com/user-attachments/assets/c9345828-06e8-45e1-b70c-187fb37df462)
@@ -63,7 +63,7 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 ![image](https://github.com/user-attachments/assets/5b026639-7bbe-4b9f-b597-40879de539e7)
 ![image](https://github.com/user-attachments/assets/2d43ce92-f6a9-478c-955f-bab8fd94044d)
 
-### 트러블 슈팅
+### ⚠️트러블 슈팅
 ![image](https://github.com/user-attachments/assets/8cac2d69-e8fb-4215-8ec8-1411cbd8558f)
 ![image](https://github.com/user-attachments/assets/ea81fcc4-b980-4313-a2d9-28b5122bf615)
 ![image](https://github.com/user-attachments/assets/2609c3b9-8ae3-494f-a6a7-69af73a0823f)
@@ -83,10 +83,10 @@ We are 2nd project team from Spharos Academy 5th <br></br> which is education pr
 ![image](https://github.com/user-attachments/assets/a330907b-0f31-455d-98b8-2b90ace72cdc)
 ![image](https://github.com/user-attachments/assets/31d7d1c9-0416-45c5-b5a2-66148b2f1576)
 
-### 협업 과정
+### 🤝협업 과정
 ![image](https://github.com/user-attachments/assets/a893c989-a24e-409f-b4d1-1a5746a98cdf)
 ![image](https://github.com/user-attachments/assets/c2ebed46-f2bd-4739-b01f-76968261c455)
 ![image](https://github.com/user-attachments/assets/9e53d7fb-36b8-4d95-906d-9533dd7626ec)
 
-
+<br>
 
